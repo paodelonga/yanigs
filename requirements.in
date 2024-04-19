@@ -1,0 +1,8 @@
+bpython==0.24
+dynaconf==3.2.5
+instabot==0.117.0
+pip==20.3.4
+pkg-resources==0.0.0
+pylint==3.1.0
+python-lsp-server==1.11.0
+yapf==0.40.2
